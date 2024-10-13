@@ -1,6 +1,6 @@
 # Equibrium Properties Tokamak
 
-In the above two python codes, the equilibrium properties generation and grid generation along the equilibrium magnetic flux lines are done. Although for security reasons, they are named as T1, T2 and the properties of the two tokamaks and the corresponding input files are not present.
+In the above two python codes, the equilibrium properties generation and grid generation along the equilibrium magnetic flux lines are done. For privacy reasons, they are named as T1, T2 and the properties of the two tokamaks and the corresponding input files are not present.
 
 Going through the code one can generate the following
 * The nature magnetic field looks like in Bx,By,Bz direction
