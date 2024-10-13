@@ -1,1 +1,1 @@
-# equilibrium_properties_tokamak
+# Equiibrium Properties Tokamak
