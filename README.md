@@ -1,0 +1,1 @@
+# equilibrium_properties_tokamak
